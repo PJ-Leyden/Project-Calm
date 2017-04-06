@@ -1,0 +1,8 @@
+Name: Paul "P.J." Leyden
+File: Notes.txt
+Desc: Information or notes to remember for future development. 
+
+1) SFML Simple and Fast Multimedia Library
+2) *OpenGL
+3) *SDL
+4) Allegro
